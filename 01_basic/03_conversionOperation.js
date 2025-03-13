@@ -17,3 +17,4 @@ console.log(valueInNumber); // it will return a NaN
 // if we pass boolean it will be returned 0 OR 1
 
 
+//********************************************* operations */
