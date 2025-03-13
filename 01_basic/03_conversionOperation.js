@@ -18,3 +18,10 @@ console.log(valueInNumber); // it will return a NaN
 
 
 //********************************************* operations */
+let str1="hello"
+ let str2=" shadain"
+ console.log(str1.concat(str2)); // it will concatenate two strings
+ console.log( "1" + 23+2); // it behaves like string
+ console.log(3+1+2 +"90"); // it behaves like number
+ 
+ 
