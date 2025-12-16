@@ -10,4 +10,3 @@ console.log(null==0);
  
 
 // premative data type
- 
