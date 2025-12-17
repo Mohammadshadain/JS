@@ -11,4 +11,4 @@ let batch; // it will gives undefiend mtlb value asign nhi hui
 console.log(typeof(rollNo));
   
 // non premative data types( call by reference)   ->>>>>>> HEAP memory is used in this and variable ko refernece milta h origenl value ka --- means changes to the variable leads change in origianl value
-// array, object (imp),function
+// array, object (imp),function ,,thes are nonn premative data
